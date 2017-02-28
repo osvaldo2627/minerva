@@ -1,0 +1,38 @@
+<div class='formulario'>
+
+<form id="form" name="form" method="post" action="p">
+                                     
+                        
+                    
+<center><label>Generar Proyecto</label></center>
+</br></br><b></b>
+        
+           </table>          	
+            <table>
+            <tr>
+            <td> <label>Proyecto</label> 
+            <input type="text" name="nombre" value="" ></td>
+            </tr>
+            
+            
+            <tr>
+            <td><label>Prototipo</label>
+            <input type="text" name="ci" maxlength="11" size="11"value=""></td>
+            </tr>
+            
+            <tr>
+            <td>
+           <input type="radio" name="cal" value="1">1
+           <input type="radio" name="cal" value="2">2</td>
+            </tr>
+            
+           
+            
+            </table>        	
+			
+	
+				<input type="submit" name="Aceptar" value="Aceptar">
+				<input type="reset" name="Cancelar" value="Cancelar">
+			</p>
+			</form>
+		</div>

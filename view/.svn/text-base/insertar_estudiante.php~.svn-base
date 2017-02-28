@@ -1,0 +1,71 @@
+
+<div class='formulario'>
+
+<form id="form" name="form" method="post" action="p">
+                                     
+                        
+
+</br></br><b></b>
+        
+          <center>       	
+            <table>
+            <tr>
+            <td> <label>Nombre</label> 
+            <input type="text" name="nombre" value="" ></td>
+            </tr>
+            
+            
+            <tr>
+            <td><label>CI</label>
+            <input type="text" name="ci" maxlength="11" size="11"value=""></td>
+            </tr>
+            
+            <tr>
+            <td><label>Facultad</label>
+           <input type="text" name="facultad" maxlength="5" size="10"value=""></td>
+            </tr>
+            
+            <tr>
+            <td><label>Sexo</label>
+           <input type="radio" name="sexo" value="femenino">Femenino
+           <input type="radio" name="sexo" value="masculino">Masculino</td>
+            </tr>
+            
+            <tr>
+           <td><label>Ano</label>
+          <select>
+          <option>1ro</option>
+          <option>2do</option>
+          <option>3rp</option>
+          <option>4to</option>
+          <option>5to</option>
+          </select></td>
+            </tr>
+            
+            <tr>
+            <td><label>Grupo</label>
+          <input type="text" name="grupo" maxlength="3" size="10"value=""></td>
+            </tr>
+            
+            <tr>
+            <td><label>Preferencias</label>
+            <input type="text" name="preferencias"  value=""></td>
+            </tr>
+            
+            <tr>
+            <td><label>Proyecto</label>
+            <input type="checkbox"t" name="proy"  value=""></td>
+            </tr>
+            <tr>
+            <td><label>UJC</label>
+            <input type="checkbox"t" name="ujc"  value=""></td>
+            </tr>
+            
+            </table>        	
+		  </center>  	
+	
+				<input type="submit" name="Aceptar" value="Aceptar">
+				<input type="reset" name="Cancelar" value="Cancelar">
+			</p>
+			</form>
+		</div>

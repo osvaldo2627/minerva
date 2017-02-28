@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/proyecto/!svn/ver/2121/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib
+END
+connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/proyecto/!svn/ver/2098/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib/connect.php
+END
+modelBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/proyecto/!svn/ver/2063/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib/modelBase.php
+END
+frontController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proyecto/!svn/ver/2121/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib/frontController.php
+END
+controllerBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proyecto/!svn/ver/2063/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib/controllerBase.php
+END
+securityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proyecto/!svn/ver/2103/trunk/Thesis_Projects/Long-Polling_Fallback_Osvaldo/Tests/lib/securityManager.php
+END

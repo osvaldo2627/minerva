@@ -1,0 +1,26 @@
+<div class='formulario'>
+
+<form id="form" name="form" method="post" action="p">
+                                     
+                        
+                    
+<center><label>Insertar Proyecto</label></center>
+</br></br><b></b>
+        
+           </table>          	
+            <table>
+            <tr>
+            <td> <label>Proyecto</label> 
+            <input type="text" name="nombre" value="" ></td>
+            </tr>
+            
+            
+            
+            </table>        	
+			
+	
+				<input type="submit" name="Aceptar" value="Aceptar">
+				<input type="reset" name="Cancelar" value="Cancelar">
+			</p>
+			</form>
+		</div>
